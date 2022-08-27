@@ -1,0 +1,19 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box; }
+
+
+    /*.fondoIndex {
+        background-image: url(../assets/img/Loma_copia_3042.jpg);
+        background-size: cover; }
+      
+      
+        h1 {
+            color:#f8a502;
+            display: flex;
+            justify-content: center;
+            font-size: 80px; 
+           margin-top: 50px;
+        }
+        /*
